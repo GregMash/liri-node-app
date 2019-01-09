@@ -1,0 +1,11 @@
+
+-----------------------------------------------------------------------------------
+Movie Title: Super Troopers
+Year: 2001
+Country: USA
+Language: English, German, French
+Actors: André Vippolis, Joey Kern, Geoffrey Arend, Erik Stolhanske
+IMDB Rating: 7.1
+Rotten Tomatoes Rating: 48/100
+Plot: Five Vermont state troopers, avid pranksters with a knack for screwing up, try to save their jobs and out-do the local police department by solving a crime.
+----------------------------------------------------------------------------------
